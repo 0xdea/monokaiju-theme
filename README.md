@@ -17,7 +17,16 @@ A dark theme for the [Zed editor](https://zed.dev/) inspired by [@erik-brueggema
 
 ## Installing
 
-TODO
+### Manual installation
+
+1. Clone this repository or download [`monokaiju.json`](https://github.com/0xdea/monokaiju-theme/blob/main/themes/monokaiju.json).
+2. Copy `monokaiju.json` into your Zed theme directory (typically `~/.config/zed/themes`).
+
+### Activating the theme
+
+1. Open the command palette (<kbd>⌘</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>).
+2. Run **theme selector: toggle**.
+3. Choose **Monokaiju** from the theme list.
 
 ## See also
 
