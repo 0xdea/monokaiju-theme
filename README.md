@@ -22,5 +22,6 @@ TODO
 ## See also
 
 - <https://github.com/monokai-pro/zed>
+- <https://monokai.pro/zed>
 - <https://monokai.pro/contribute>
-
+- <https://github.com/0xdea/dotfiles/tree/main/zed>
