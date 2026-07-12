@@ -1,4 +1,4 @@
-# monokaiju
+# monokaiju-theme 🐲
 
 [![](https://img.shields.io/github/stars/0xdea/monokaiju-theme.svg?style=flat&color=yellow)](https://github.com/0xdea/monokaiju-theme)
 [![](https://img.shields.io/github/forks/0xdea/monokaiju-theme.svg?style=flat&color=green)](https://github.com/0xdea/monokaiju-theme)
@@ -11,6 +11,16 @@
 >
 > -- [Plan 7 of 9 from Outer Space](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/Plan7Of9FromOuterSpace)
 
-A [Zed](https://zed.dev/) theme inspired by Monokai Pro (CE).
+A dark theme for the [Zed editor](https://zed.dev/) inspired by [@erik-brueggemann](https://github.com/erik-brueggemann)'s [Monokai Pro (CE)](https://github.com/monokai-pro/zed).
 
 ![](https://raw.githubusercontent.com/0xdea/monokaiju-theme/master/.img/screen01.png)
+
+## Installing
+
+TODO
+
+## See also
+
+- <https://github.com/monokai-pro/zed>
+- <https://monokai.pro/contribute>
+
